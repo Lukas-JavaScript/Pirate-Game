@@ -35,7 +35,7 @@ Play as a pirate character and navigate through a scrolling world filled with mi
 Built using:
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - Sprite-based animations
 - Collision detection system
 
